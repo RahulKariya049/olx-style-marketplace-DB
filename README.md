@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents the database design for a user-to-user online marketplace where individuals can buy and sell products. The primary objective is to design a relational database that manages users, product listings, wishlists, reviews, conversations, and administrative operations while maintaining data consistency and supporting common marketplace workflows. :contentReference[oaicite:0]{index=0}
+This project presents the database design for a user-to-user online marketplace where individuals can buy and sell products. The primary objective is to design a relational database that manages users, product listings, wishlists, reviews, conversations, and administrative operations while maintaining data consistency and supporting common marketplace workflows.
 
 ## Objectives
 
@@ -11,14 +11,14 @@ This project presents the database design for a user-to-user online marketplace 
 - Support product listing and management.
 - Store wishlist, review, and rating information.
 - Maintain buyer-seller conversations.
-- Enable analytical queries for buyers, sellers, and administrators. :contentReference[oaicite:1]{index=1}
+- Enable analytical queries for buyers, sellers, and administrators.
 
 ## System Users
 
 - Unregistered Users
 - Buyers
 - Sellers
-- Administrators :contentReference[oaicite:2]{index=2}
+- Administrators
 
 ## Functional Requirements
 
@@ -50,7 +50,7 @@ This project presents the database design for a user-to-user online marketplace 
 - Manage users
 - Monitor product listings
 - View ratings and feedback
-- Generate reports :contentReference[oaicite:3]{index=3}
+- Generate reports
 
 ## Database Modules
 
@@ -61,7 +61,7 @@ This project presents the database design for a user-to-user online marketplace 
 - Wishlist Management
 - Reviews and Ratings
 - Buyer-Seller Messaging
-- Administration :contentReference[oaicite:4]{index=4}
+- Administration
 
 ## Main Database Tables
 
@@ -76,7 +76,7 @@ This project presents the database design for a user-to-user online marketplace 
 - WishlistItems
 - Reviews
 - Conversations
-- Messages :contentReference[oaicite:5]{index=5}
+- Messages
 
 ## Database Features
 
@@ -85,7 +85,7 @@ This project presents the database design for a user-to-user online marketplace 
 - Multiple wishlists per buyer
 - Buyer-seller conversation history
 - Product and seller reviews
-- Marketplace reporting queries :contentReference[oaicite:6]{index=6}
+- Marketplace reporting queries
 
 ## Reports
 
@@ -99,7 +99,7 @@ The database design supports queries such as:
 - Seller ranking
 - Product popularity
 - Customer feedback
-- Customer purchase history :contentReference[oaicite:7]{index=7}
+- Customer purchase history
 
 
 ## License
