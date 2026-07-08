@@ -4,8 +4,6 @@
 
 This project presents the database design for a user-to-user online marketplace where individuals can buy and sell products. The primary objective is to design a relational database that manages users, product listings, wishlists, reviews, conversations, and administrative operations while maintaining data consistency and supporting common marketplace workflows. :contentReference[oaicite:0]{index=0}
 
-The project was developed as part of the **Database Management Systems (IT214)** course.
-
 ## Objectives
 
 - Design a normalized relational database for an online marketplace.
